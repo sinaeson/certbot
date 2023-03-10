@@ -1,0 +1,386 @@
+Requesting a certificate for ad.bibc.co.kr
+
+Certbot failed to authenticate some domains (authenticator: webroot). The Certificate Authority reported these problems:
+  Domain: ad.bibc.co.kr
+  Type:   connection
+  Detail: 139.150.73.124: Fetching http://ad.bibc.co.kr/.well-known/acme-challenge/WWELwBeompgjiF2P-dvFZlEN_J_MOuNYFQRHehZ19Tc: Timeout during connect (likely firewall problem)
+
+Hint: The Certificate Authority failed to download the temporary challenge files created by Certbot. Ensure that the listed domains serve their content from the provided --webroot-path/-w and that files created there can be downloaded from the internet.
+
+Requesting a certificate for admin.gentalk.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/admin.gentalk.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/admin.gentalk.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for app.gbtalk.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/app.gbtalk.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/app.gbtalk.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for bibc.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/bibc.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/bibc.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for bo.gentalk.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/bo.gentalk.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/bo.gentalk.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for crm.bibc.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/crm.bibc.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/crm.bibc.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for gbtalk.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/gbtalk.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/gbtalk.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for gentalk.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/gentalk.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/gentalk.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for landing.goldenprimeeconomy.com
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/landing.goldenprimeeconomy.com/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/landing.goldenprimeeconomy.com/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for manolab.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/manolab.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/manolab.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for msg.bibc.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/msg.bibc.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/msg.bibc.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for news.bibc.co.kr
+
+Certbot failed to authenticate some domains (authenticator: webroot). The Certificate Authority reported these problems:
+  Domain: news.bibc.co.kr
+  Type:   connection
+  Detail: 139.150.73.124: Fetching http://news.bibc.co.kr/.well-known/acme-challenge/IaqhgabowFnMP1eLgXOaNN6vdxNSmVqhatCeJN0gbMU: Timeout during connect (likely firewall problem)
+
+Hint: The Certificate Authority failed to download the temporary challenge files created by Certbot. Ensure that the listed domains serve their content from the provided --webroot-path/-w and that files created there can be downloaded from the internet.
+
+Requesting a certificate for okxkor.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/okxkor.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/okxkor.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for payment.bibc.co.kr
+
+Certbot failed to authenticate some domains (authenticator: webroot). The Certificate Authority reported these problems:
+  Domain: payment.bibc.co.kr
+  Type:   connection
+  Detail: 139.150.73.124: Fetching http://payment.bibc.co.kr/.well-known/acme-challenge/0te2fBJbIfbZtdNN0-IxyYWLIvD7VIe3PS2CZgioNWU: Timeout during connect (likely firewall problem)
+
+Hint: The Certificate Authority failed to download the temporary challenge files created by Certbot. Ensure that the listed domains serve their content from the provided --webroot-path/-w and that files created there can be downloaded from the internet.
+
+Requesting a certificate for reserve.bibc.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/reserve.bibc.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/reserve.bibc.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for sms.bibc.co.kr
+
+Certbot failed to authenticate some domains (authenticator: webroot). The Certificate Authority reported these problems:
+  Domain: sms.bibc.co.kr
+  Type:   connection
+  Detail: 139.150.73.124: Fetching http://sms.bibc.co.kr/.well-known/acme-challenge/tuR2mdmWoimPx41wjBW9Lv5M6Yu3oFzP6MRAbsg4EMk: Timeout during connect (likely firewall problem)
+
+Hint: The Certificate Authority failed to download the temporary challenge files created by Certbot. Ensure that the listed domains serve their content from the provided --webroot-path/-w and that files created there can be downloaded from the internet.
+
+Requesting a certificate for static.bibc.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/static.bibc.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/static.bibc.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for streaming.bibc.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/streaming.bibc.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/streaming.bibc.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for talk.goldenprimeeconomy.com
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/talk.goldenprimeeconomy.com/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/talk.goldenprimeeconomy.com/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for test.bibc.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/test.bibc.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/test.bibc.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for test2.xn--289ak5vi3bc2s.com
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/test2.xn--289ak5vi3bc2s.com/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/test2.xn--289ak5vi3bc2s.com/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for tusin.bibc.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/tusin.bibc.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/tusin.bibc.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for www.goldenprimeeconomy.com
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/www.goldenprimeeconomy.com/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/www.goldenprimeeconomy.com/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for www.landfxblue.com
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/www.landfxblue.com/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/www.landfxblue.com/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for www.okxkor.co.kr
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/www.okxkor.co.kr/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/www.okxkor.co.kr/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for www.xn--289ak5vi3bc2s.com
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/www.xn--289ak5vi3bc2s.com/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/www.xn--289ak5vi3bc2s.com/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for www.xn--tv-o81ip43bo9ccyy.com
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/www.xn--tv-o81ip43bo9ccyy.com/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/www.xn--tv-o81ip43bo9ccyy.com/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for xn--289ak5vi3bc2s.com
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/xn--289ak5vi3bc2s.com/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/xn--289ak5vi3bc2s.com/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requesting a certificate for xn--tv-o81ip43bo9ccyy.com
+
+Successfully received certificate.
+Certificate is saved at: /home/master/workspace/certbot/live/xn--tv-o81ip43bo9ccyy.com/fullchain.pem
+Key is saved at:         /home/master/workspace/certbot/live/xn--tv-o81ip43bo9ccyy.com/privkey.pem
+This certificate expires on 2023-05-29.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
